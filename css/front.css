@@ -37,8 +37,11 @@ h3 {
     padding-bottom: 20px;
 }
 .content {
-    padding-top: 100px;
+    height: 80vh;
+    padding-top: 20vh;
+    /*
     padding-bottom: 210px;
+    */
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
 }
